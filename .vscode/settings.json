@@ -1,0 +1,11 @@
+{
+  "eslint.autoFixOnSave": false,
+  "editor.insertSpaces": false,
+  "jshint.enable": false,
+  "eslint.packageManager": "yarn",
+  "eslint.alwaysShowStatus": true,
+  "editor.formatOnSave": true,
+  "workbench.colorCustomizations": {
+    // "editor.background": "#004cff",
+  }
+}

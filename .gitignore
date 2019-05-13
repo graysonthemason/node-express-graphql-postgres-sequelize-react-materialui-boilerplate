@@ -1,0 +1,9 @@
+node_modules
+development
+.DS_Store
+yarn-error.log
+dist
+bundle.js
+server/server.cert
+server/server.key
+.env
